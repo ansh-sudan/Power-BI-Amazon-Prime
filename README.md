@@ -6,7 +6,7 @@ Overview
 
 This project involves the analysis of Amazon Prime data using Microsoft Power BI. The goal is to visualize various aspects of the dataset to uncover insights about Amazon Prime's content, performance, and trends.
 
-
+ 
 Dataset
 
 The dataset used in this project includes information about Amazon Prime content, such as:
